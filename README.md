@@ -71,6 +71,8 @@ print(result,unans)
 
 # Server:
 
+![image](https://github.com/user-attachments/assets/3f9d5841-b9c4-4926-bfc8-c1effb90edd4)
+
 
 # Tranceroute Command:
 
